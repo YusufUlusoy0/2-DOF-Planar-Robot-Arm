@@ -3,7 +3,7 @@ MG90S servo motorlar ve Arduino kullanılarak geliştirilmiş, ters kinematik (i
 
 <img width="1080" height="1561" alt="WhatsApp Image 2026-04-28 at 20 37 32" src="https://github.com/user-attachments/assets/2e8868e4-59f0-4b47-bc3f-77ef874d5fad" />
 
-Key Features:
+Gerekenler:
 
     Hardware: Arduino Uno/Nano, 2x MG90S Servos.
 
@@ -18,7 +18,9 @@ How to Use:
 
     Devreyi şemaya göre kurun.
 
-    Kod klasöründeki kodu Arduino'ya yükleyin.
+    Verilen kodu Arduino'ya yükleyin.
+
+    
 
 
     
